@@ -1,0 +1,3 @@
+# CompletableFutureのthenApplyとthenComposeを取り違える境界を実際にデバッグする
+
+既存下書きとの重複を避け、同じ大分類でも異なる契約を扱う教材です。
